@@ -1,5 +1,3 @@
-//pv操作：生产者与消费者经典问题
-//author:leaf
 #include <stdio.h>
 #include <stdlib.h>
 #include <unistd.h>
